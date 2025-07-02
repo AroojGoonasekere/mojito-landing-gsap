@@ -4,5 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/mojito-landing-gsap/', // <-- Add this for GitHub Pages deployment
   plugins: [react(), tailwindcss()],
 })
