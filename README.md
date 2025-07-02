@@ -6,7 +6,7 @@ A modern, interactive landing page for a cocktail bar, crafted with **React**, *
 
 ## 📸 Preview
 
-![Mojito Landing Page Screenshot](./public/readme/Hero.png)
+![Mojito Landing Page Screenshot](./public/readme/hero.png)
 
 ---
 
